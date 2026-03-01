@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<plots>
+  <plot id="1" filename="geometry_xy_raw" color_by="material" type="slice" basis="xy">
+    <pixels>800 800</pixels>
+    <origin>0.0 0.0 0.0</origin>
+    <width>30.0 30.0</width>
+    <color id="1" rgb="200 170 80"/>
+    <color id="2" rgb="30 100 160"/>
+    <color id="3" rgb="150 150 150"/>
+  </plot>
+  <plot id="2" filename="geometry_xz_raw" color_by="material" type="slice" basis="xz">
+    <pixels>800 800</pixels>
+    <origin>0.0 0.0 0.0</origin>
+    <width>30.0 20.0</width>
+    <color id="1" rgb="200 170 80"/>
+    <color id="2" rgb="30 100 160"/>
+    <color id="3" rgb="150 150 150"/>
+  </plot>
+</plots>
