@@ -1,0 +1,9 @@
+case,Tfuel_K,reflector_thickness_cm,rod_state,coolant,keff,unc,leak_frac,leak_frac_unc
+hp6_rod_withdrawn_K_T600_refl9p0,600.0,9.000,withdrawn,K,1.01685811,0.00016493,0.54145940,0.00009005
+hp6_rod_withdrawn_Li_T600_refl9p0,600.0,9.000,withdrawn,Li,1.02124655,0.00014749,0.53706251,0.00008711
+hp6_rod_withdrawn_Na_T600_refl9p0,600.0,9.000,withdrawn,Na,1.02068737,0.00015638,0.54032476,0.00009284
+hp6_rod_withdrawn_NaK_T600_refl9p0,600.0,9.000,withdrawn,NaK,1.01816329,0.00017686,0.54106685,0.00008991
+hp6_rod_inserted_K_T600_refl9p0,600.0,9.000,inserted,K,1.00377992,0.00016892,0.52561915,0.00008668
+hp6_rod_inserted_Li_T600_refl9p0,600.0,9.000,inserted,Li,1.00710239,0.00015978,0.52153746,0.00008763
+hp6_rod_inserted_Na_T600_refl9p0,600.0,9.000,inserted,Na,1.00731090,0.00015655,0.52455558,0.00008736
+hp6_rod_inserted_NaK_T600_refl9p0,600.0,9.000,inserted,NaK,1.00439954,0.00017969,0.52557385,0.00009225

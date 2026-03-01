@@ -1,0 +1,6 @@
+case,Tfuel_K,keff,unc
+hp6_rod_withdrawn_Na_T250_refl10,250.0,1.01199106,0.00015890
+hp6_rod_withdrawn_Na_T294_refl10,294.0,1.01144523,0.00014876
+hp6_rod_withdrawn_Na_T600_refl10,600.0,1.01190581,0.00016425
+hp6_rod_withdrawn_Na_T900_refl10,900.0,1.01122847,0.00015810
+hp6_rod_withdrawn_Na_T1200_refl10,1200.0,1.01149354,0.00016988
